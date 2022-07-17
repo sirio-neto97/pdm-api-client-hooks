@@ -1,11 +1,8 @@
-# Atividade prática - Consumindo uma API RESTful com React Hooks
+# Programação para Dispositivos Móveis: Atividade prática - Consumindo API RESTful com React Hooks
+Atividade para criação de hooks responsáveis pela obtenção de dados da API externa [JSONPlaceholder](https://jsonplaceholder.typicode.com/users) para popular componente de lista de usuários.
 
-## [Conteúdo da atividade prática]()
-
-## Instalar dependências projeto:
-Na raiz do projeto, executar:
-`npm install`
-
-## Iniciar aplicação:
-Na raiz do projeto, executar:
-`expo start`
+## Getting started
+1. Clonar repositório
+2. Acessar diretório do projeto
+3. Rodar `yarn` para instalar dependências do projeto
+4. Rodar `expo start` para iniciar o projeto
